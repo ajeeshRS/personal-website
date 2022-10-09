@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins&display=swap");
+
+body {
+  font-family: "poppins", sans-serif;
+  font-weight: 400;
+}
+
+.custom-head {
+  background-color: rgb(138, 41, 228);
+}
+
+header h2,
+a {
+  font-family: "montserrat", sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.custom-ul ul {
+  font-family: "poppins", sans-serif;
+  font-weight: 400;
+}
+
+.pf-img {
+  border-radius: 50%;
+}
+
+.hero-title p,
+footer {
+  color: rgb(94, 93, 93);
+}
+
+.hero-title h4 {
+  font-family: "montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.sec-top {
+  font-family: "montserrat", sans-serif;
+  font-weight: 600;
+}
+.text-purple {
+  font-family: "montserrat", sans-serif;
+  font-weight: 600;
+}
+.clr {
+  color: #dd4b25;
+}
+.clr2 {
+  color: #2864ea;
+}
+.clr3 {
+  color: #efd81d;
+}
+
+.clr4 {
+  color: #6f7881;
+}
+.box-0 {
+  border-radius: 20px;
+  border: 1px solid rgb(197, 196, 196);
+  box-shadow: 0 3px 4px rgba(155, 152, 152, 0.4);
+}
+.foot-clr {
+  background-color: rgb(138, 41, 228);
+}
+.btn {
+  background-color: rgb(117, 117, 117);
+  color: #fff;
+}
+.btn:hover {
+  background-color: #000;
+  color: #fff;
+}
+header a:hover {
+  color: #fff;
+  text-decoration: none;
+}
